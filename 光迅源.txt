@@ -58,8 +58,8 @@ CCTV16,http://118.122.2.29:9999/hls/16/index.m3u8
 贵州卫视,http://118.122.2.29:9999/hls/32/index.m3u8
 贵州卫视,http://182.150.23.74:808/hls/26/index.m3u8
 辽宁卫视,http://118.122.2.29:9999/hls/35/index.m3u8
-重庆卫视,http://113.64.147.11:8081/hls/76/index.m3u8
 重庆卫视,http://118.122.2.29:9999/hls/31/index.m3u8
+重庆卫视,http://113.64.147.11:8081/hls/76/index.m3u8
 陕西卫视,http://118.122.2.29:9999/hls/41/index.m3u8
 陕西卫视,http://182.150.23.74:808/hls/36/index.m3u8
 青海卫视,http://118.122.2.29:9999/hls/43/index.m3u8
@@ -75,7 +75,6 @@ CCTV16,http://118.122.2.29:9999/hls/16/index.m3u8
 哈哈炫动,http://118.122.2.29:9999/hls/56/index.m3u8
 金鹰卡通,http://118.122.2.29:9999/hls/50/index.m3u8
 其他频道,#genre#
-SCTV5四川影视）,http://182.150.23.74:808/hls/39/index.m3u8
 DOX电影,http://113.64.147.11:8081/hls/62/index.m3u8
 MV音乐,http://113.64.147.11:8081/hls/88/index.m3u8
 上海纪实,http://118.122.2.29:9999/hls/57/index.m3u8
