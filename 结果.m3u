@@ -3894,8 +3894,6 @@ http://117.10.53.230:5000/rtp/225.1.1.215:5002?$天津聯通
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/動作電影.png" group-title="高質組播",動作電影
 http://171.80.126.150:8888/rtp/239.69.1.242:11094?$湖北電信
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/動作電影.png" group-title="高質組播",動作電影
-http://175.9.162.186:9999/rtp/239.76.252.243:9000?$湖南電信
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/動作電影.png" group-title="高質組播",動作電影
 http://182.149.156.13:4022/rtp/239.93.42.7:5140?$四川電信
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/動作電影.png" group-title="高質組播",動作電影
 http://221.232.175.164:10000/rtp/239.69.1.242:11094?$湖北電信
@@ -3910,8 +3908,6 @@ http://117.10.53.230:5000/rtp/225.1.1.213:5002?$天津聯通
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/家庭影院.png" group-title="高質組播",家庭影院
 http://171.80.126.150:8888/rtp/239.69.1.243:11100?$湖北電信
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/家庭影院.png" group-title="高質組播",家庭影院
-http://175.9.162.186:9999/rtp/239.76.252.241:9000?$湖南電信
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/家庭影院.png" group-title="高質組播",家庭影院
 http://182.149.156.13:4022/rtp/239.93.42.6:5140?$四川電信
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/家庭影院.png" group-title="高質組播",家庭影院
 http://221.232.175.164:10000/rtp/239.69.1.243:11100?$湖北電信
@@ -3925,8 +3921,6 @@ http://111.170.104.177:9999/rtp/239.69.1.241:11088?$湖北電信
 http://113.222.42.190:8882/rtp/239.76.252.242:9000?$湖南電信
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/影迷電影.png" group-title="高質組播",影迷電影
 http://171.80.126.150:8888/rtp/239.69.1.241:11088?$湖北電信
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/影迷電影.png" group-title="高質組播",影迷電影
-http://175.9.162.186:9999/rtp/239.76.252.242:9000?$湖南電信
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/影迷電影.png" group-title="高質組播",影迷電影
 http://182.149.156.13:4022/rtp/239.93.42.5:5140?$四川電信
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/影迷電影.png" group-title="高質組播",影迷電影
@@ -3951,8 +3945,6 @@ http://121.224.8.75:8888/rtp/239.49.8.94:8000?$江蘇電信
 http://121.229.146.224:8888/rtp/239.49.8.94:8000?$江蘇電信
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/第一劇場.png" group-title="高質組播",第一劇場
 http://171.80.126.150:8888/rtp/239.69.1.74:10084?$湖北電信
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/第一劇場.png" group-title="高質組播",第一劇場
-http://175.9.162.186:9999/rtp/239.76.254.49:9000?$湖南電信
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/第一劇場.png" group-title="高質組播",第一劇場
 http://180.107.229.166:5555/rtp/239.49.8.94:8000?$江蘇電信
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/第一劇場.png" group-title="高質組播",第一劇場
@@ -3987,8 +3979,6 @@ http://117.62.15.47:4022/rtp/239.49.8.89:8000?$江蘇電信
 http://121.224.8.75:8888/rtp/239.49.8.89:8000?$江蘇電信
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/風雲劇場.png" group-title="高質組播",風雲劇場
 http://121.229.146.224:8888/rtp/239.49.8.89:8000?$江蘇電信
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/風雲劇場.png" group-title="高質組播",風雲劇場
-http://175.9.162.186:9999/rtp/239.76.254.50:9000?$湖南電信
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/風雲劇場.png" group-title="高質組播",風雲劇場
 http://180.107.229.166:5555/rtp/239.49.8.89:8000?$江蘇電信
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/風雲劇場.png" group-title="高質組播",風雲劇場
@@ -4113,16 +4103,12 @@ http://59.34.138.70:4000/rtp/239.77.0.245:5146?$廣東電信
 http://59.34.138.70:4000/rtp/239.77.1.237:5146?$廣東電信
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/Bestv4K.png" group-title="4K 頻道",Bestv4K
 http://113.222.42.190:8882/rtp/239.76.254.3:9000?$湖南電信
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/Bestv4K.png" group-title="4K 頻道",Bestv4K
-http://175.9.162.186:9999/rtp/239.76.254.3:9000?$湖南電信
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV 4K.png" group-title="4K 頻道",CCTV 4K
 http://113.222.42.190:8882/rtp/239.76.252.35:9000?$湖南電信
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV 4K.png" group-title="4K 頻道",CCTV 4K
 http://113.86.204.79:9999/rtp/239.77.0.194:5146?$廣東電信
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV 4K.png" group-title="4K 頻道",CCTV 4K
 http://113.86.204.79:9999/rtp/239.77.1.180:5146?$廣東電信
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV 4K.png" group-title="4K 頻道",CCTV 4K
-http://175.9.162.186:9999/rtp/239.76.252.35:9000?$湖南電信
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV 4K.png" group-title="4K 頻道",CCTV 4K
 http://182.149.156.13:4022/rtp/239.93.42.42:5140?$四川電信
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV 4K.png" group-title="4K 頻道",CCTV 4K
